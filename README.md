@@ -27,7 +27,7 @@ Python is a general-purpose, versatile, and powerful programming language. It’
 
 # First Program:
   Try running this program in python IDE or your IDLE:
-  ```
+  ```python
   print('Hello World')
   ```
 
