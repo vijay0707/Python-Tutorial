@@ -4,6 +4,7 @@ python tutorial and practice programs
 ### Hi, I'm Vijay !! Welcome to my python tutorial repo.
 
 # Introduction:
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)
 Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because it’s concise and easy to read. Whatever you want to do, Python can do it. From web development to machine learning to data science, Python is the language for you.
 
 ## Why to use python:
