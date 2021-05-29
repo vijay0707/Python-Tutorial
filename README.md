@@ -20,7 +20,12 @@ Python is a general-purpose, versatile, and powerful programming language. It’
   * Powerful and flexible
 
 ## Installation:
-   the first step is to learn how to install or update Python on a local machine or computer.Visit the link https://www.python.org/downloads/ to download the latest release of Python.
+   The first step is to learn how to install or update Python on a local machine or computer.Visit the link https://www.python.org/downloads/ to download the latest release of Python. The particular appeal of Python is that you can write a program in any text editor, save it in .py format and then run via a Command Line. But as you learn to write more complex code or venture into data science, you might want to switch to an IDE or IDLE.(try googling the difference between IDE and IDLE as researching makes you better)
+
+
+
+
+
 
 
 if any issues or error, feel free to contact me: 
